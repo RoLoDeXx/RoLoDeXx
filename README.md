@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 **Senior Frontend Engineer @ BrowserStack** — building high-scale web products used by millions of developers worldwide
+- 💼 **Frontend Engineer @ BrowserStack** — building high-scale web products used by millions of developers worldwide
 - 🎓 **Google Summer of Code 2020** @ CDL — shipped production-grade open source tooling
 - 🏆 **JYC Technical Lead** — led frontend architecture decisions and mentored engineers
 - 🌐 **DSC JIIT-128 Tech Lead** — ran workshops on modern web dev, React, and developer tooling
