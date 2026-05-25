@@ -1,10 +1,12 @@
-# Hey there, I'm Samarth Sharma 👋
+# Hey, I'm Samarth Sharma 👋
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GSoC+2020+%40+CDL;JYC+Technical+Lead;DSC+JIIT-128+Tech+Lead;Open+Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Performance+%7C+Scale;Currently+%40+BrowserStack;GSoC+2020+%40+CDL;Building+fast%2C+accessible+web+experiences)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sharma)
+&nbsp;
+[![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6B00?style=for-the-badge&logo=browserstack&logoColor=white)](https://browserstack.com)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=RoLoDeXx&style=for-the-badge&color=blue)
 
@@ -12,60 +14,71 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **Google Summer of Code 2020** @ CDL — built and shipped production-grade open source tools
-- - 🏆 **JYC Technical Lead** — led engineering initiatives and mentored junior developers
-  - - 🌐 **DSC JIIT-128 Tech Lead** — organised workshops, hackathons & developer community events
-    - - 💼 Exploring opportunities in **Full Stack / Backend / Systems Engineering**
-      - - 📍 Based in **Delhi, India**
-        - - 💬 Ask me about **C++, Python, JavaScript, Graph Algorithms, Web Crawlers**
-         
-          - ---
+- 💼 **Senior Frontend Engineer @ BrowserStack** — building high-scale web products used by millions of developers worldwide
+- - 🎓 **Google Summer of Code 2020** @ CDL — shipped production-grade open source tooling
+  - - 🏆 **JYC Technical Lead** — led frontend architecture decisions and mentored engineers
+    - - 🌐 **DSC JIIT-128 Tech Lead** — ran workshops on modern web dev, React, and developer tooling
+      - - ⚡ Passionate about **performance, accessibility, design systems, and developer experience**
+        - - 📍 Based in **Delhi, India**
+          - - 💬 Ask me about **React, TypeScript, frontend architecture, web performance, cross-browser compatibility**
+           
+            - ---
 
-          ## 🛠️ Tech Stack
+            ## 🛠️ Tech Stack
 
-          ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-          ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-          ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-          ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-          ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-          ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-          ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-          ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+            **Core**
 
-          ---
+            ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+            ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+            ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+            ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+            ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+            ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-          ## 📌 Featured Projects
+            **Tooling & Testing**
 
-          | Project | Description | Stack |
-          |---------|-------------|-------|
-          | [recommendationSystemGraphTheory](https://github.com/RoLoDeXx/recommendationSystemGraphTheory) | Recommendation engine using graph theory algorithms | C++ |
-          | [TweetCredibility](https://github.com/RoLoDeXx/TweetCredibility) | Analyses and scores tweet credibility | Python |
-          | [React-TypeRacer](https://github.com/RoLoDeXx/React-TypeRacer) | Multiplayer typing speed game built in React | JavaScript |
-          | [web-crawler](https://github.com/RoLoDeXx/web-crawler) | Lightweight web crawler built in PHP | PHP |
+            ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+            ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+            ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+            ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+            ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+            ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-          ---
+            ---
 
-          ## 📊 GitHub Stats
+            ## 📌 Featured Projects
 
-          <div align="center">
+            | Project | Description | Stack |
+            |---------|-------------|-------|
+            | [React-TypeRacer](https://github.com/RoLoDeXx/React-TypeRacer) | Multiplayer typing speed game — real-time UI, smooth animations | React, JS |
+            | [recommendationSystemGraphTheory](https://github.com/RoLoDeXx/recommendationSystemGraphTheory) | Graph-theory based recommendation engine | C++ |
+            | [TweetCredibility](https://github.com/RoLoDeXx/TweetCredibility) | ML-powered credibility scorer with a clean web interface | Python |
+            | [web-crawler](https://github.com/RoLoDeXx/web-crawler) | Lightweight, fast web crawler | PHP |
 
-          ![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoLoDeXx&show_icons=true&theme=tokyonight&hide_border=true)
-          &nbsp;
-          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoLoDeXx&layout=compact&theme=tokyonight&hide_border=true)
+            ---
 
-          </div>
+            ## 📊 GitHub Stats
 
-          ---
+            <div align="center">
 
-          ## 🏅 Highlights
+            ![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoLoDeXx&show_icons=true&theme=tokyonight&hide_border=true)
+            &nbsp;
+            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoLoDeXx&layout=compact&theme=tokyonight&hide_border=true)
 
-          - ✅ **GSoC 2020 Contributor** — Open Source Development under CDL
-          - - ✅ **Community Builder** — Grew DSC JIIT-128 to an active developer community
-            - - ✅ **Technical Mentor** — Guided students through competitive programming & web dev
-              - - ✅ Migrated projects across **GitHub / GitLab / Bitbucket**
-               
-                - ---
+            </div>
 
-                > *"Code is like humour. When you have to explain it, it's bad." — Cory House*
+            ---
+
+            ## 🏅 Career Highlights
+
+            - ✅ **BrowserStack** — Frontend engineer on web products at massive scale (cross-browser, multi-device, high-perf)
+            - - ✅ **GSoC 2020** — Selected & contributed to open source under CDL
+              - - ✅ **Tech Lead** — Drove frontend architecture, code reviews, and mentorship across teams
+                - - ✅ **Community** — Built and grew developer communities at JIIT-128; ran React & web performance workshops
+                  - - ✅ **Cross-browser expertise** — Deep experience in browser compatibility, DevTools, and debugging at scale
+                   
+                    - ---
+
+                    > *"The details are not the details. They make the design." — Charles Eames*
