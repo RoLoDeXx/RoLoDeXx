@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Performance+%7C+Scale;Currently+%40+BrowserStack;GSoC+2020+%40+CDL;Building+fast%2C+accessible+web+experiences)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-sharma-fe)
 &nbsp;
 [![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6B00?style=for-the-badge&logo=browserstack&logoColor=white)](https://browserstack.com)
 &nbsp;
